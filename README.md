@@ -1,1 +1,3 @@
-# demo-git-dotnet
+# Learning Git with DotNet
+
+
